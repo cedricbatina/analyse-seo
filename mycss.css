@@ -1,0 +1,44 @@
+header{
+    background-color: #000000;
+}
+h1,h2{
+    text-align:center;
+}
+h2{
+    color: #ffffff;
+    background-color: #000000;
+}
+.header__title{
+    color: #ffffff;
+}
+.main{
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%; 
+    background-color: #42c4f1;
+}
+section{
+    width: 80%;
+    margin: auto;
+}
+p{
+    font-size: 1.5em;
+    text-align: left;
+}
+.analyse__title{
+    text-align: center;
+}
+.after{
+    text-align: left;
+}
+.again{
+    text-align: left;
+}
+footer{
+    background-color:#000000;
+}
+.footer__paragraph{
+    text-align: center;
+    color: #ffffff;
+    font-size: 1em;
+}
